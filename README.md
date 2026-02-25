@@ -1,3 +1,5 @@
+> **Part of Web3 Risk Control Portfolio**: Detection engine for MEV attacks and wash trading. See also [risklens-platform](https://github.com/Rhea-Wang315/risklens-platform) (decision engine) and [risk-agent](https://github.com/Rhea-Wang315/risk-agent) (AI automation).
+
 # Whale-Sentry  
 **On-chain Risk Detection for MEV & Trading Abuse**
 
@@ -448,6 +450,23 @@ $ pytest tests/test_clean_swaps.py -v
 - Precise profit calculation using `sqrtPriceX96` and gas costs
 
 ## About the Author
+
+**Rhea Wang**  
+M.S. in Statistics, University of Pennsylvania  
+AWS Certified Solutions Architect | Certified Kubernetes Administrator
+
+Background in statistical modeling, applied machine learning, and cloud-native engineering, with a focus on building reliable on-chain risk systems.
+Currently focused on **on-chain risk, MEV analysis, and DeFi market behavior**.
+
+Open to **Web3 / Crypto roles (remote or Singapore-based)**.
+
+---
+
+## Contact
+
+📧 qinw.official@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rheawangwork)  
+💻 [GitHub](https://github.com/Rhea-Wang315)
 
 **Rhea Wang**  
 M.S. in Statistics, University of Pennsylvania  
