@@ -1,3 +1,5 @@
+> **Part of [Web3 Risk Control Portfolio](../README.md)**: This is the detection engine. See also [risklens-platform](../risklens-platform/) (decision engine) and [risk-agent](../risk-agent/) (AI automation).
+
 # Whale-Sentry  
 **On-chain Risk Detection for MEV & Trading Abuse**
 
